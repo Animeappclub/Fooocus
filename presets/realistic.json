@@ -1,6 +1,6 @@
 {
     "default_model": "realisticStockPhoto_v10.safetensors",
-    "default_refiner": "SSD-1B-A1111.safetensors"
+    "default_refiner": "SSD-1B-A1111.safetensors",
     "default_refiner_switch": 1,
     "default_loras": [
         [
