@@ -12,8 +12,8 @@
             0.30
         ],
         [
-            "juggernautXL_version6Rundiffusion.safetensors",
-            0.7
+            "None",
+            1.0
         ],
         [
             "None",
@@ -44,8 +44,7 @@
     "embeddings_downloads": {},
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-        "pytorch_lora_weights.safetensors": "https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors"
+        "pytorch_lora_weights.safetensors": "https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors"
         
     }
 }
