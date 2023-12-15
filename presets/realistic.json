@@ -1,6 +1,6 @@
 {
     "default_model": "realisticStockPhoto_v10.safetensors",
-    "default_refiner": ["juggernautXL_version6Rundiffusion.safetensors", "SSD-1B-A1111.safetensors"]
+    "default_refiner": "SSD-1B-A1111.safetensors"
     "default_refiner_switch": 1,
     "default_loras": [
         [
@@ -12,8 +12,8 @@
             0.30
         ],
         [
-            "None",
-            1.0
+            "juggernautXL_version6Rundiffusion.safetensors",
+            0.7
         ],
         [
             "None",
@@ -39,13 +39,13 @@
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
         "realisticStockPhoto_v10.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v10.safetensors",
-        "juggernautXL_version6Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors",
         "SSD-1B-A1111.safetensors": "https://huggingface.co/segmind/SSD-1B/resolve/main/SSD-1B-A1111.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors",
-        "pytorch_lora_weights.safetensors": "https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors"
+        "pytorch_lora_weights.safetensors": "https://huggingface.co/latent-consistency/lcm-lora-sdxl/resolve/main/pytorch_lora_weights.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_version6Rundiffusion.safetensors"
         
     }
 }
