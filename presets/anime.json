@@ -30,7 +30,7 @@
     "default_scheduler": "karras",
     "default_performance": "Speed",
     "default_prompt": "1girl, ",
-    "default_prompt_negative": "(embedding:unaestheticXLv31:0.8), low quality, watermark",
+    "default_prompt_negative": "low quality, watermark",
     "default_styles": [
         "Fooocus V2",
         "Fooocus Masterpiece",
@@ -44,7 +44,6 @@
         "blue_pencil-XL-v2.0.0.safetensors": "https://huggingface.co/bluepen5805/blue_pencil-XL/resolve/main/blue_pencil-XL-v2.0.0.safetensors",
     },
     "embeddings_downloads": {
-        "unaestheticXLv31.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/unaestheticXLv31.safetensors"
     },
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
