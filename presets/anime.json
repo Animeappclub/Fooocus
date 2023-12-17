@@ -1,6 +1,6 @@
 {
     "default_model": "blue_pencil-XL-v2.0.0.safetensors",
-    "default_refiner": "DreamShaperXL_Turbo_dpmppSdeKarras_half_pruned_6.safetensors",
+    "default_refiner": "nekoray-xl-1.5m-pdg32_e02.safetensors",
     "default_refiner_switch": 0.7,
     "default_loras": [
         [
@@ -37,7 +37,7 @@
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
         "blue_pencil-XL-v2.0.0.safetensors": "https://huggingface.co/bluepen5805/blue_pencil-XL/resolve/main/blue_pencil-XL-v2.0.0.safetensors",
-        "DreamShaperXL_Turbo_dpmppSdeKarras_half_pruned_6.safetensors": "https://huggingface.co/Lykon/dreamshaper-xl-turbo/resolve/main/DreamShaperXL_Turbo_dpmppSdeKarras_half_pruned_6.safetensors"
+        "nekoray-xl-1.5m-pdg32_e02.safetensors": "https://huggingface.co/trojblue/nekoray-xl-fulldan-bench-1.5m/resolve/main/nekoray-xl-1.5m-pdg32_e02.safetensors"
     },
     "embeddings_downloads": {
     },
